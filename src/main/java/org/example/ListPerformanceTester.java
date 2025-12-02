@@ -13,13 +13,13 @@ import java.util.*;
  *   <li>Удаление элементов (из начала, конца, середины)</li>
  * </ul>
  *
- * @author Performance Test Team
  * @version 1.0
  * @see ArrayList
  * @see LinkedList
  * @see List
  */
-public class ListPerformanceTest {
+
+public class ListPerfomanceTester {
     private final Random random = new Random();
 
     /**
